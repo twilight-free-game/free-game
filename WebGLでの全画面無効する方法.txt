@@ -1,0 +1,5 @@
+index.htmlの
+「unity-footer」のIDが付いたタグあたりを消すと消すことができる
+
+unity-fullscreen-button
+で検索するとフルスクリーンボタン関連が見つかるのでそのあたりも消すといい
